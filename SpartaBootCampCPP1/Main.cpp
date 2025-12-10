@@ -328,7 +328,7 @@ void agiUP(int& currentAGI, int upValue)	// 민첩 증가
 	}
 	else if (prevAGI < 10 && currentAGI >= 10)
 	{
-		printTextSlowly("이전보다 발걸음이 가벼게 느껴집니다.\n\n", 50, 100);
+		printTextSlowly("이전보다 발걸음이 가볍게 느껴집니다.\n\n", 50, 100);
 	}
 }
 
