@@ -166,7 +166,7 @@ void printStatus(const int &level, const int(&status)[8], const int &hpPotionCnt
 	cout << "내구 : " << status[6] << " | ";
 
 	// INT
-	cout << "지눙 : " << status[7] << "\n";
+	cout << "지능 : " << status[7] << "\n";
 
 	cout << "---------------------------------------\n"; // 구분선 출력
 	// 소지 포션
